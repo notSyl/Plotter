@@ -7,6 +7,8 @@ import os
 import platform
 import addcopyfighandler
 
+os.system('pip install -r requirements.txt')
+
 matplotlib.use('qt5agg')
 
 platform = platform.system()
