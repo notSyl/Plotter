@@ -1,4 +1,4 @@
-addcopyfighandler==3.0.0
-matplotlib==3.6.2
-numpy==1.23.5
+addcopyfighandler
+matplotlib
+numpy
 pyqt5
