@@ -1,3 +1,3 @@
 # Plotter
 
-Plotting software for math class
+Simple plotting software for math class
